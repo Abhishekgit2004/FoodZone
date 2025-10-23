@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import Contact from './components/searchood/Contact'
 import Search from './components/searchood/Search'
 
-export let url ="https://food-zone-bppr.vercel.app/"
+export let url ="https://food-zone-bice.vercel.app/"
 const App = () => {
   let [data,setdata]=useState(null)
   let [filter_data ,setfilter_data]=useState(null)
